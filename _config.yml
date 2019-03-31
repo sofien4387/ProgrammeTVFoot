@@ -1,0 +1,5 @@
+# Site settings
+title: WeekEnd Foot TV
+subtitle: "WeekEnd Foot TV"
+url: "https://sofien4387.github.io/WeekEndFootTv/" # the base hostname & protocol for your site
+baseurl: "/"
